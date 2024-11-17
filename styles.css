@@ -116,5 +116,10 @@ hr{
 }
 .lists li{
     margin-bottom: 1.5rem;
-  }
-
+}
+.list-title, .list-subtitle{
+    color: #00beef;
+}
+.image-wrapper{
+    display: grid;
+}
