@@ -42,7 +42,7 @@ Você pode ver a versão ao vivo do projeto clicando no link abaixo:
 3. Para adaptar a visualização em dispositivos móveis, a página foi projetada para se ajustar a telas menores, utilizando media queries para ajustar o layout.
 
 ## Screenshots ou Demonstração
-![magazine-img](img.png)
+![magazine-img](mockup.png)
 
 
 
