@@ -41,8 +41,8 @@ Você pode ver a versão ao vivo do projeto clicando no link abaixo:
 2. O layout será exibido de forma responsiva, com imagens e texto organizados utilizando CSS Grid.
 3. Para adaptar a visualização em dispositivos móveis, a página foi projetada para se ajustar a telas menores, utilizando media queries para ajustar o layout.
 
-## Screenshots ou Demonstração
-![magazine-img](mockup.png)
+## Screenshot
+![magazine-img](./images/mockup.png)
 
 
 
