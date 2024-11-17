@@ -14,6 +14,11 @@ Este projeto foi criado como parte do curso de **Responsive Web Design** no **Fr
 
 Este projeto foi realizado como parte do curso de **Responsive Web Design** oferecido pela plataforma **[FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)**.
 
+## Demo ao Vivo
+Você pode ver a versão ao vivo do projeto clicando no link abaixo:
+
+[Visualizar o projeto online](https://yancfgomes.github.io/magazine-with-css-grid/)
+
 ## Instalação
 
 1. Clone o repositório para sua máquina local:
@@ -37,7 +42,11 @@ Este projeto foi realizado como parte do curso de **Responsive Web Design** ofer
 3. Para adaptar a visualização em dispositivos móveis, a página foi projetada para se ajustar a telas menores, utilizando media queries para ajustar o layout.
 
 ## Screenshots ou Demonstração
-![magazine-img](image.png)
+![magazine-img](img.png)
+
+
+
+
 
 ## Licença
 
