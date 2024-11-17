@@ -161,6 +161,12 @@ hr{
     .text {
       font-size: 1.6rem; 
     }
-  }
+}
+
+@media only screen and (max-width: 420px) {
+    .hero-title{
+        font-size: 4.5rem;
+    }
+}
   
 
